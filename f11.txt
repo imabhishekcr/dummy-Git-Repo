@@ -1,0 +1,11 @@
+story of 121
+
+a =1 
+b= 2
+c =a+b
+
+hi we are working on the git stash
+
+
+
+ 

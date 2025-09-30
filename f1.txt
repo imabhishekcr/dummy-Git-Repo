@@ -1,1 +1,17 @@
 one line added 
+
+// story 121 
+x= 20 
+y= 21 
+x= x+y
+
+
+a=1 
+b=2
+c= a+b 
+
+story of 131 
+
+p m o 
+
+India win 
