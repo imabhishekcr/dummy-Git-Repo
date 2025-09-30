@@ -1,0 +1,20 @@
+//story -121
+x= 20 
+y=21
+z= x+Y
+s.O.P (Print );
+
+
+Hardick pandya out of the team
+a=1 
+b=2 
+c= 1+2
+
+story of 131 
+India won the asia cup 
+
+Aabhishek sharma got big car
+
+Tilak verma got man of the match
+
+LAst runs scored by the Rinku singh
